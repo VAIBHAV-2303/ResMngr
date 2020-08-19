@@ -1,0 +1,7 @@
+{
+    "name": "ResMngr",
+    "description": "Resource Management Slack App",
+    "repository": "https://github.com/VAIBHAV-2303/ResMngr.git",
+    "logo": "./avatar.jpg",
+    "keywords": ["node", "express", "heroku", "slack", "firebase"]
+  }

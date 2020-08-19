@@ -1,0 +1,35 @@
+{
+  "name": "resmngr",
+  "version": "1.0.0",
+  "description": "Resource Management Slack App",
+  "main": "src/webAPI/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VAIBHAV-2303/ResMngr.git"
+  },
+  "keywords": [
+    "node",
+    "slackApp",
+    "heroku"
+  ],
+  "author": "Vaibhav Garg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VAIBHAV-2303/ResMngr/issues"
+  },
+  "homepage": "https://github.com/VAIBHAV-2303/ResMngr#readme",
+  "dependencies": {
+    "async-mutex": "^0.2.3",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "commander": "^5.1.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "firebase": "^7.14.5",
+    "mocha": "^8.0.1",
+    "request": "^2.88.2"
+  }
+}
